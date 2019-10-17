@@ -8,7 +8,8 @@ Esse repositório contém o atual estado de soluções para alguns desafios na p
 # Competitions
 
 Cada solução possui uma pasta individual contendo o Notebook com todo o processo analítico.
-|     Challenge           |Status                          |Position                         |
-|----------------|-------------------------------|-----------------------------|
-|Titanic|            `Em andamento`            |3163 (Top 26%)            |
+
+| Competition | Status | Position |
+|--|--|--|
+| Titanic | Ongoing | 3163 (Top 26%) |
 
