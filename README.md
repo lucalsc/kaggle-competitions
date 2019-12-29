@@ -14,6 +14,7 @@ Cada solução possui uma pasta individual contendo o Notebook com todo o proces
 | Titanic | Ongoing | 3163 (Top 26%) |
 | House Pricing Boston | Ongoing | 995 (Top 19%) |
 | Data Science Bowl | Ongoing | No Submits |
+| Data Science Academy (Dezembro) | Finished | 23 (Top 36%) |
 
 
 

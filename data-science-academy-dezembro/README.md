@@ -1,0 +1,1 @@
+Por se tratar de uma competição privada, não é possível compartilhar os dados da competição.
